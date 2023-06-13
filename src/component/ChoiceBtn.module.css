@@ -1,0 +1,9 @@
+.choice_btn {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  background-color: tomato;
+  color: white;
+  border-radius: 5px;
+  padding: 3px;
+}

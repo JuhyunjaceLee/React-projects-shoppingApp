@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  flex-direction: column;
+}
+.nav_login {
+  display: flex;
+  gap: 3px;
+  align-items: center;
+  margin-left: auto;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.logo {
+  background-color: darkorange;
+  color: white;
+  margin: auto;
+  padding: 10px;
+}

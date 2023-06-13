@@ -1,0 +1,10 @@
+.productCard_contents {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+.productCard_contents:hover {
+  transform: scale(1.1);
+}
