@@ -3,7 +3,7 @@
 ## Thumbnail
 <img src="https://github.com/JuhyunjaceLee/React-projects-shoppingApp/assets/94448281/895c270e-abf6-4524-8386-48fc9c20e328" width="500"/>
 
-## 프로젝트 URL - 프로젝트 바로가기<a href="https://react-projects-shoppingapp.netlify.app/">CLICK</a>
+## 프로젝트 URL - 프로젝트 바로가기<a href="https://clothing-store-page.netlify.app">CLICK</a>
 
 ## 프로젝트 MEMO URL - <a href="https://www.notion.so/Shopping-app-c0bd8fed959542b49487a69c70955296">CLICK</a>
 
