@@ -1,7 +1,7 @@
 # Shopping App
 
 ## Thumbnail
-<img src="https://github.com/JuhyunjaceLee/React-projects-shoppingApp/assets/94448281/895c270e-abf6-4524-8386-48fc9c20e328" width="500"/>
+<img src="https://github.com/JuhyunjaceLee/React-Projects/assets/94448281/af6e4d0e-ddd8-4a0c-a45d-2f09045a14be" width="500"/>
 
 ## 프로젝트 URL - 프로젝트 바로가기<a href="https://clothing-store-page.netlify.app">CLICK</a>
 
@@ -46,6 +46,10 @@
   - 키워드로 검색이 가능하다.
   - json local 서버를 my json-server라는 fake서버를 활용하여 진짜 server처럼 만들었다.
   - CORS 권한을 허용하여 다른 출처에서도 data를 받아볼 수 있다.
+
+## 문제와 해결방법
+* ### <a href="https://desert-edam-bea.notion.site/739b84e70bbe47c3a4931ca12da5119b?pvs=4">필터링 버튼</a>
+* ### <a href="https://desert-edam-bea.notion.site/CORS-policy-88020a042ee846d2bff2cd1743a8f275?pvs=4">CORS Policy</a>
 
 ## 개선할 점
 * 검색어에 아무것도 입력하지 않았을때, 전체상품 또는 '해당 키워드가 없습니다.' 라는 페이지가 보이도록 만들어보기
